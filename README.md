@@ -1,10 +1,10 @@
 # Ajaxify Reddit
 
-There's currently a little known gem out there called [Reddit](https://www.reddit.com). The developers are currently swamped with new feature requests and need your help. They want to test out the Reddit website as a single page application. They have some starter code but haven't had a chance to go much further than that. 
+There's currently a little known gem out on the internet called [Reddit](https://www.reddit.com). The developers are currently swamped with new feature requests and need your help. They want to test out the Reddit website as a single page application. They have some starter code but haven't had a chance to go much further than that. 
 
 ## API
 
-Luckily, to access the data for the homepage and other landing pages, all you have to do is append `.json` to the end of the URL. 
+Luckily, to access the data for the homepage and other landing pages, all you have to do is append `.json` to the end of the normal URL. 
 
 For example: 
 
@@ -17,7 +17,7 @@ https://www.reddit.com/.json
 ```
 
 ```
-// New URL
+// New Post URL
 https://www.reddit.com/new/
 
 // JSON data for the 'new' section
