@@ -49,6 +49,6 @@ https://www.reddit.com/new/.json
 ## Challenges
 
 - Use string literals to create a template that you run your entire JSON response through to create a consistent output.
-- Refactor your code to be more object oriented or make use of prototypes
+- Refactor your code to be more object oriented or make use of prototypes ( Hint: We are iterating over objects, how hard would it be to pass them into an object constructor to allow us to call methods on them?)
 - Now that we've redone the original homepage, let's now come up with our own mind blowing UI using Bootstrap and their data
 - The call examples above only give you results for the first page. See if you can Google how to go beyond the first page of results and give them a way to navigate to other pages
