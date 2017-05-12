@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Ajaxify Reddit
 
-![](https://media.giphy.com/media/SCrX9VvuCPYZ2/giphy-downsized-large.gif)
+![Reddit HQ](https://cloud.githubusercontent.com/assets/4304660/26000299/00ae5066-36ee-11e7-813b-9a3210f09cd7.gif)
 
 There's currently a little known gem out on the internet called [Reddit](https://www.reddit.com). The developers are currently swamped with new feature requests and need your help. They want to test out the Reddit website as a single page application. They have some starter code but haven't had a chance to go much further than that.
 
