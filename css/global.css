@@ -3,3 +3,35 @@ nav ul li {
   list-style-type: none;
   margin-right: 25px;
 }
+
+p {
+  display: inline-block;
+}
+
+img {
+  padding: 10px 30px 10px 0;
+}
+
+#main {
+}
+
+.wholeHeader {
+  background-color: #153243;
+}
+
+h1 {
+  color: #F39237;
+}
+
+body {
+  background-color: #E1EFE6;
+}
+
+li a{
+  color: #E1EFE6;
+  text-decoration: none;
+}
+
+.postContainers {
+  border-bottom: 2px solid #235789;
+}
